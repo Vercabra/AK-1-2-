@@ -1,4 +1,4 @@
-/home/anton/lab2_ak/build/CMakeFiles/edit_cache.dir
-/home/anton/lab2_ak/build/CMakeFiles/rebuild_cache.dir
-/home/anton/lab2_ak/build/CMakeFiles/calcLib.dir
-/home/anton/lab2_ak/build/CMakeFiles/calculator.dir
+/home/vercabra/ak_laba2/build/CMakeFiles/edit_cache.dir
+/home/vercabra/ak_laba2/build/CMakeFiles/rebuild_cache.dir
+/home/vercabra/ak_laba2/build/CMakeFiles/calcLib.dir
+/home/vercabra/ak_laba2/build/CMakeFiles/calculator.dir
